@@ -1,2 +1,2 @@
 # hello-world
-First trial of opening a repositry
+First trial of opening a repository
