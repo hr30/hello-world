@@ -1,7 +1,7 @@
 # hello-world
-First trial of opening a repository
+This is the first trial of opening a repository.
 Sorry, there's nothing to do yet for you, but be sure:
-I have so many questions, ideas and paths I want to follow up but where I'm stuck. I wish to share and develop them:
+I have so many questions, ideas and paths which I want to follow up, but where I'm stuck. I wish to share and develop them with you:
 - Mathematics
 - Programming
 - Graphical projects
