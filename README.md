@@ -1,3 +1,4 @@
 # hello-world
-First trial of opening a repositry
-I deleted the first read me because I didn't really understand how to use GitHub and what is it good for.
+First trial of opening a repository
+
+I deleted the first read me because I didn't really understand how to use GitHub and what is it good for. So it's more a restart of this repository.
